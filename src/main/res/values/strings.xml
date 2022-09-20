@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Informes UFC</string>
+    <string name="not">Deseja receber notificações ?</string>
+    <string name="digitarNome">Informe o seu nome:</string>
+    <string name="digitarCidade">Informe a sua cidade:</string>
+    <string name="curso">Informe o curso que você faz:</string>
+    <string name="es">Engenharia de Software</string>
+    <string name="cc">Ciência da Computação</string>
+    <string name="ec">Engenharia da Computação</string>
+    <string name="button_click">Click Longo</string>
+    <string name="sessaoClickLongo">Click Longo</string>
+    <string name="listView">listView</string>
+    <string name="telaGrid">Ir para a próxima tela</string>
+
+    <string name="sobre">Sobre</string>
+    <string name="sobreTitulo">Sobre A ufc</string>
+
+
+    <string-array name="cidades">
+        <item>Quixadá</item>
+        <item>Fortaleza</item>
+        <item>Nova Russas</item>
+    </string-array>
+</resources>
